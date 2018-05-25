@@ -1,1 +1,3 @@
-<?php phpinfo(); ?>
+<?
+// Este é um comentário adicionado
+php phpinfo(); ?>
